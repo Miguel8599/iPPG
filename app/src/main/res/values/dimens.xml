@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="bottom_margin">70dp</dimen>
+    <dimen name="top_margin">70dp</dimen>
+
+    <dimen name="top_padding">20dp</dimen>
+
+    <dimen name="elevation_appbar">4dp</dimen>
+
+    <dimen name="margenLeft_tituloCard">20dp</dimen>
+    <dimen name="margenTop_tituloCard">14dp</dimen>
+    <dimen name="radio_card">6dp</dimen>
+    <dimen name="margen_card">8dp</dimen>
+
+
+    <dimen name="margen_lista">8dp</dimen>
+
+
+    <dimen name="margen_mensaje">28dp</dimen>
+    <dimen name="margen_mensajeBottom">42dp</dimen>
+
+
+    <dimen name="elevacion_fab">6dp</dimen>
+    <dimen name="margen_fab">16dp</dimen>
+    <dimen name="borde_fab">0dp</dimen>
+
+
+    <dimen name="margen_formulario">22dp</dimen>
+    <dimen name="tamanio_radio">18sp</dimen>
+    <dimen name="espacio_radio">18dp</dimen>
+
+
+    <dimen name="margen_mensajeElegirUbicacion">10dp</dimen>
+    <dimen name="margen_botonDeUbicacionTop">100dp</dimen>
+    <dimen name="margen_botonDeUbicacionBottom">20dp</dimen>
+
+    <dimen name="margen_mensajeAdquirirSignal">10dp</dimen>
+
+
+    <dimen name="padding_botonGuardarNoGuardar">16dp</dimen>
+    <dimen name="margenBotton_GuardarNoGuardar">14dp</dimen>
+    <dimen name="margenLeft_GuardarNoGuardar">50dp</dimen>
+    <dimen name="margenRight_GuardarNoGuardar">50dp</dimen>
+
+</resources>
