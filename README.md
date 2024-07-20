@@ -1,0 +1,1 @@
+Codes for the Android application designed to acquire iPPG (image Photoplethysmogram) signals. Additionally, this repository includes the code for models that would be used to estimate Blood Pressure (BP) from the iPPG signals.
